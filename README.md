@@ -1,6 +1,6 @@
 # My Profile
 
-![OS](https://img.shields.io/badge/OS-Debian%20GNU%2FLinux-brightgreen?logo=debian&style=flat-square)
+![OS](https://img.shields.io/badge/OS-Fedora%20Linux-blue?logo=fedora&style=flat-square)
 ![Language](https://img.shields.io/badge/Language-Node.js-brightgreen?logo=node.js&style=flat-square)
 
 ## Glitch
