@@ -10,9 +10,7 @@
 ![Environment(2)](https://img.shields.io/badge/Environment(2)-Replit-blue?logo=replit&style=flat-square)
 
 ## Stats
-![Stats(1)](https://github-readme-stats.vercel.app/api?username=developermodoki&theme=tokyonight)  
-![Stats(2)](https://github-readme-stats.vercel.app/api/top-langs/?username=developermodoki&layout=compact&theme=tokyonight)
-
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=developermodoki&layout=compact&theme=tokyonight)
 
 ## Glitch
 https://glitch.com/@developermodoki
