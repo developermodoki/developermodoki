@@ -1,7 +1,6 @@
 # My Profile
 
-![OS](https://img.shields.io/badge/OS-Android-brightgreen?logo=android&style=flat-square)
-![OS(2)](https://img.shields.io/badge/OS(2)-Debian%20GNU/Linux-ff69b4?logo=debian&style=flat-square)
+![OS](https://img.shields.io/badge/OS-Fedora%20Linux-blue?logo=fedora&style=flat-square)
 ![Language](https://img.shields.io/badge/Language-Node.js-brightgreen?logo=node.js&style=flat-square)
 ![Language(2)](https://img.shields.io/badge/Language(2)-JavaScript-yellow?logo=javascript&style=flat-square)
 ![Language(3)](https://img.shields.io/badge/Language(3)-TypeScript-blue?logo=typescript&style=flat-square)
