@@ -1,6 +1,6 @@
 # My Profile
 
-![OS](https://img.shields.io/badge/OS-Fedora%20Linux%20Workstation-blue?logo=fedora&style=flat-square)
+![OS](https://img.shields.io/badge/OS-Debian%20GNU/Linux-ff69b4?logo=debian&style=flat-square)
 ![Language](https://img.shields.io/badge/Language-Node.js-brightgreen?logo=node.js&style=flat-square)
 ![Language(2)](https://img.shields.io/badge/Language(2)-JavaScript-yellow?logo=javascript&style=flat-square)
 ![Language(3)](https://img.shields.io/badge/Language(3)-TypeScript-blue?logo=typescript&style=flat-square)
