@@ -1,6 +1,6 @@
 # My Profile
 
-![OS](https://img.shields.io/badge/OS-Google%20Chrome%20OS%20Flex-blue?logo=googlechrome&style=flat-square)
+![OS](https://img.shields.io/badge/OS-Microsoft%20Windows%2011-blue?logo=microsoft&style=flat-square)
 ![Language](https://img.shields.io/badge/Language-Node.js-brightgreen?logo=node.js&style=flat-square)
 ![Language(2)](https://img.shields.io/badge/Language(2)-JavaScript-yellow?logo=javascript&style=flat-square)
 ![Language(3)](https://img.shields.io/badge/Language(3)-TypeScript-blue?logo=typescript&style=flat-square)
