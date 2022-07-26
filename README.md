@@ -9,7 +9,8 @@
 ![Language(5)](https://img.shields.io/badge/Language(5)-HTML-orange?logo=html5&style=flat-square)
 ![Environment](https://img.shields.io/badge/Environment-Heroku-purple?logo=heroku&style=flat-square)
 ![Environment(2)](https://img.shields.io/badge/Environment(2)-Replit-blue?logo=replit&style=flat-square)
-![Runtime](https://img.shields.io/badge/Runtime-Deno-white?logo=deno&style=flat-square)
+![Runtime](https://img.shields.io/badge/Runtime-Deno-white?logo=deno&style=flat-square)  
+[![Vivaldi-Download](https://vivaldi.com/buttons/files/230x50.png)](https://vivaldi.com?pk_campaign=Banners&pk_kwd=230x50)
 
 ## Stats
 ![Stats(1)](https://github-readme-stats.vercel.app/api/?username=developermodoki&theme=tokyonight)  
