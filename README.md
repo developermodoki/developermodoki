@@ -7,11 +7,6 @@
 ![Language(4)](https://img.shields.io/badge/Language(4)-CSS-008aed?logo=css3&style=flat-square)
 ![Language(5)](https://img.shields.io/badge/Language(5)-HTML-orange?logo=html5&style=flat-square)
 
-
-## Stats
-![Stats(1)](https://github-readme-stats.vercel.app/api/?username=developermodoki&theme=tokyonight)  
-![Stats(2)](https://github-readme-stats.vercel.app/api/top-langs/?username=developermodoki&layout=compact&theme=tokyonight)
-
 ## Glitch
 https://glitch.com/@developermodoki
 
