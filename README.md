@@ -9,10 +9,7 @@
 
 
 ## Scratch
-https://scratch.mit.edu/users/Win_Reborn/
-
-## Replit
-https://replit.com/@devmodoki  
+https://scratch.mit.edu/users/Win_Reborn/ 
 
 ## Misskey
 https://misskey.io@Win_Reborn  
