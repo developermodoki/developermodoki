@@ -12,4 +12,4 @@
 https://scratch.mit.edu/users/Win_Reborn/ 
 
 ## Misskey
-https://misskey.io@Win_Reborn  
+https://misskey.io/@Win_Reborn  
