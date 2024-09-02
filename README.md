@@ -6,7 +6,7 @@
 ![Color](https://img.shields.io/badge/Color-(Hex)009914-009914?logo=none&style=flat-square)
 
 ## AtCoder
-https://atcoder.jp/users/developermodoji/ 
+https://atcoder.jp/users/developermodoki/ 
 
 ## Misskey
 https://misskey.io/@Win_Reborn  
